@@ -1,7 +1,7 @@
-Number=input("enter number:")
-if (int(Number)>0):
+Number = input("enter number:")
+if (int(Number) > 0):
     print("Number is positive")
-elif (int(Number)==0):
+elif (int(Number) == 0):
     print("number isnot  a sgin")
 else:
     print("number is negative")
