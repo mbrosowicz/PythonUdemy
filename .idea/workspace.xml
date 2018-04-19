@@ -2,43 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f699417-8eee-40f8-ad5f-e23feef866b5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_DbConnect.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_DbConnect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_DbConnectCall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_DbConnectCall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Simple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Simple_con.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Simple_con.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Simple_kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Simple_kwargs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_User.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_User.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_op.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_op.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Condaitio_Simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Condaitio_Simple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Condition_If_Else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_If_Else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Condition_Nested.py" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_Nested.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Condition_elIF.py" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_elIF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/ControlLoops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbConnect.py" beforeDir="false" afterPath="$PROJECT_DIR$/DbConnect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileRead.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileRead.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWrite.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileWrite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FilterFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/FilterFunction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FindAge.py" beforeDir="false" afterPath="$PROJECT_DIR$/FindAge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/FirstApp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function_Simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Function_Simple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloblaAndLocalVar.py" beforeDir="false" afterPath="$PROJECT_DIR$/GloblaAndLocalVar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpCals.py" beforeDir="false" afterPath="$PROJECT_DIR$/HttpCals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop_For.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loop_For.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop_Nested.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loop_Nested.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop_Simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loop_Simple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MapFulction.py" beforeDir="false" afterPath="$PROJECT_DIR$/MapFulction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyThread.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyThread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReduceFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReduceFunction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartRun.py" beforeDir="false" afterPath="$PROJECT_DIR$/StartRun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
     </list>
     <ignored path="Python3Udemy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Lists.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lists.py">
+      <file leaf-file-name="FindAge.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FindAge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -85,6 +50,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Marcelo Brosowicz de Paulo &lt;mbrosowicz@hotmail.com&gt;" />
         <option value="hussien89aa" />
         <option value="hussein" />
       </list>
@@ -128,7 +94,6 @@
         <option value="$PROJECT_DIR$/FileRead.py" />
         <option value="$PROJECT_DIR$/FileWrite.py" />
         <option value="$PROJECT_DIR$/FilterFunction.py" />
-        <option value="$PROJECT_DIR$/FindAge.py" />
         <option value="$PROJECT_DIR$/Function_Simple.py" />
         <option value="$PROJECT_DIR$/GloblaAndLocalVar.py" />
         <option value="$PROJECT_DIR$/HttpCals.py" />
@@ -145,6 +110,7 @@
         <option value="$PROJECT_DIR$/FirstApp.py" />
         <option value="$PROJECT_DIR$/Variables.py" />
         <option value="$PROJECT_DIR$/Tuple.py" />
+        <option value="$PROJECT_DIR$/FindAge.py" />
       </list>
     </option>
   </component>
@@ -166,7 +132,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,6 +144,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -457,7 +423,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487136659532</updated>
-      <workItem from="1524066421833" duration="3115000" />
+      <workItem from="1524066421833" duration="4734000" />
+      <workItem from="1524156695472" duration="2532000" />
     </task>
     <task id="LOCAL-00001" summary="add space">
       <created>1492961201876</created>
@@ -473,66 +440,73 @@
       <option name="project" value="LOCAL" />
       <updated>1492961241345</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Indent">
+      <created>1524075315110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524075315110</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3115000" />
+    <option name="totallyTimeSpent" value="7266000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-10" width="1366" height="778" extended-state="6" />
+    <frame x="0" y="-10" width="1366" height="778" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26179606" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26179606" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23499268" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Learn" />
-      <window_info anchor="right" id="SciView" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23499268" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Learn" order="2" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.24373259" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24373259" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32960895" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32729805" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32729805" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16349542" />
       <window_info id="Structure" order="1" weight="0.24947146" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26462397" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32729805" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24373259" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32729805" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +525,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add space" />
-    <option name="LAST_COMMIT_MESSAGE" value="add space" />
+    <MESSAGE value="Indent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Indent" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -559,6 +534,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" lean-forward="true" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/codecs.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/tkinter/ttk.py" />
@@ -612,9 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/login.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/UI/CallBack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -626,9 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,9 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="e#1#24#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,13 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -765,13 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindAge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -852,9 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Condaitio_Simple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -887,6 +843,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindAge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
